@@ -221,7 +221,7 @@ fieldset legend {
         gap: 24px;
 }
 
-.colun-date {
+.column-date {
     display: flex;
     gap: 20px;    
 }
@@ -296,6 +296,8 @@ footer {
 
     width: 736px;
     height: 136px;
+
+    border-top: 1px solid #D6D6D6;
 }
 
 
@@ -338,7 +340,6 @@ footer {
 
     width: 736px;
     height: 0px;
-
 
     border: 1px solid #D6D6D6;
 }
