@@ -82,7 +82,7 @@ header p {
 form {
     margin-top: 42px;
     width: 736px;
-    height: 1566px;
+    height: 1500px;
     background: #FAFAFC;
     border-radius: 8px 8px 0px 0px;
 
@@ -223,10 +223,11 @@ fieldset legend {
 
 .column-date {
     display: flex;
-    gap: 20px;    
+    gap: 20px;
+     
 }
 
-.colun-date >:nth-child(1) {
+.column-date >:nth-child(1) {
 
     width: 100%;
 }
@@ -296,6 +297,7 @@ footer {
 
     width: 736px;
     height: 136px;
+    
 
     border-top: 1px solid #D6D6D6;
 }
@@ -348,3 +350,4 @@ input:invalid {
 
     border: 1px solid #FF1010
 }
+
